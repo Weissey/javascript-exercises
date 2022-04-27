@@ -15,3 +15,11 @@ Think about how you would do this on pen and paper and then how you might transl
 - loop through the given numbers ([link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration))
 - on each iteration add the number to the sum
 - return the sum after finishing the loop
+
+Have two numbers, one MIN and one MAX
+
+Use a for loop to loop through every iteration from MIN to MAX, stopping only when MAX is reached
+
+Within every iteration, a += adds the current number looping to the overall SUM
+
+After the loop is finished, return SUM
