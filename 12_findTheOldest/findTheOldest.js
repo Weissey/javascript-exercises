@@ -19,7 +19,8 @@ const findTheOldest = function(array) {
     })
   };
 
-//oldest 
+//49
+//31
 
   function getAge(birth, death) {
     if (!death) {
@@ -31,4 +32,20 @@ const findTheOldest = function(array) {
 // Do not edit below this line
 module.exports = findTheOldest;
 
-//1970 1942
+// const people = [
+//     {
+//       name: "Carly",
+//       yearOfBirth: 1942,
+//       yearOfDeath: 1970,
+//     },
+//     {
+//       name: "Ray",
+//       yearOfBirth: 1962,
+//       yearOfDeath: 2011,
+//     },
+//     {
+//       name: "Jane",
+//       yearOfBirth: 1912,
+//       yearOfDeath: 1941,
+//     },
+//   ]
